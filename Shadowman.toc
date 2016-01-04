@@ -1,7 +1,8 @@
 ## Interface: 40300
 ## Title: Shadowman
 ## Author: Lanrutcon
-## Notes: Shadowy Apparitions tracker
+## Notes: Shadowy Apparitions Tracker
 ## Version: 1.0
+## SavedVariables: ShadowmanSV
 
 Shadowman.lua
